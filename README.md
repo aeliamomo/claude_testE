@@ -7,7 +7,7 @@
 ## Numpy 
 
 ### Step 1: Check if python 3 is install
-### Step 2: Go to https://github.com/aeliamomo/claude_testE/tree/main and install the rest.
+### Step 2: Go to https://github.com/aeliamomo/claude_testF/tree/main and install the rest.
 
 
 
